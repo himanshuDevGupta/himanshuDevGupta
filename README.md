@@ -87,11 +87,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## 📝 Top Blog Posts
 
--   [Zero to Hero: Front End Developer Roadmap](https://dev.to/ruppysuppy/front-end-developer-roadmap-zero-to-hero-4pkf)
--   [Beautify Your GitHub Profile like a Pro](https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093)
--   [5 projects to master Front End Development](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
--   [5 Tips to Take your Website Lighthouse Score from Meh to WOW!](https://dev.to/ruppysuppy/5-tips-to-take-your-website-lighthouse-score-from-meh-to-wow-2375)
--   [5 Tips Every React Developer Should Know](https://dev.to/ruppysuppy/5-tips-every-react-developer-should-know-1ghh)
+-   [React Higher Order Component Function Component Tutorial](https://dev.to/himanshudevgupta/react-higher-order-component-function-component-tutorial-5ea4)
+-   [What is environment variables in Node.js and how to use it.]([https://dev.to/ruppysuppy/beautify-your-github-profile-like-a-pro-5093](https://dev.to/himanshudevgupta/what-is-environment-variables-in-nodejs-and-how-to-use-it-2b14))
 
 Want to read more? [Check out all the blogs](https://dev.to/ruppysuppy)
 
