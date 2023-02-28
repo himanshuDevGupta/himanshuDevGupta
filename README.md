@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I am Himanshu Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=164AF7&vCenter=true&width=435&lines=Hi%2C+I+am+Himanshu+Gupta;MERN+Devloper+With+5%2B+Year+Experience+;in+Startup+and+Product+Base+Company)](https://git.io/typing-svg)
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
